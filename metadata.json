@@ -1,0 +1,5 @@
+{
+  "name": "LogosAI - Precision Logo Maker",
+  "description": "A professional-grade AI logo generator that transforms text prompts into stunning, high-quality brand identities using Gemini's image generation models.",
+  "requestFramePermissions": []
+}
